@@ -1,0 +1,93 @@
+<div class="m-index">
+  <div class="l-container">
+    <div class="m-home">
+      <header>
+        <ul>
+          <li class="yo-ico">&#xe745;</li>
+          <li>
+            <ul>
+              <li class="active">热点</li>
+              <li>关注</li>
+            </ul>
+          </li>
+          <li class="yo-ico">&#xe684;</li>
+        </ul>
+      </header>
+      <nav>
+        <ul>
+          <li class="active">足球现场</li>
+          <li>足球生活</li>
+          <li>足球美女</li>
+        </ul>
+      </nav>
+      <section id="home-scroll">
+        <div>
+          <ul>
+            <li>
+              <img src="/dong/images/img1.jpg">
+              <b>樱桃小丸子</b>
+            </li>
+            <li></li>
+            <li>
+              <img src="/dong/images/img2.jpg">
+              <b>樱桃小丸子</b>
+            </li>
+          </ul>
+          <ul>
+            <li>
+              <img src="/dong/images/img3.jpg">
+              <b>樱桃小丸子</b>
+            </li>
+            <li></li>
+            <li>
+              <img src="/dong/images/img4.jpg">
+              <b>樱桃小丸子</b>
+            </li>
+          </ul>
+          <ul>
+            <li>
+              <img src="/dong/images/img1.jpg">
+              <b>樱桃小丸子</b>
+            </li>
+            <li></li>
+            <li>
+              <img src="/dong/images/img2.jpg">
+              <b>樱桃小丸子</b>
+            </li>
+          </ul>
+          <ul>
+            <li>
+              <img src="/dong/images/img3.jpg">
+              <b>樱桃小丸子</b>
+            </li>
+            <li></li>
+            <li>
+              <img src="/dong/images/img4.jpg">
+              <b>樱桃小丸子</b>
+            </li>
+          </ul>
+          <ul>
+            <li>
+              <img src="/dong/images/img1.jpg">
+              <b>樱桃小丸子</b>
+            </li>
+            <li></li>
+            <li>
+              <img src="/dong/images/img2.jpg">
+              <b>樱桃小丸子8</b>
+            </li>
+          </ul>
+        </div>
+      </section>
+    </div>
+  </div>
+  <footer>
+    <ul>
+      <li class="active"><i class="yo-ico">&#xe6bb;</i><b>首页</b></li>
+      <li><i class="yo-ico">&#xe65c;</i><b>发现</b></li>
+      <li><i class="yo-ico">&#xe664;</i></li>
+      <li><i class="yo-ico">&#xe735;</i><b>我的</b></li>
+      <li><i class="yo-ico">&#xe603;</i><b>退出</b></li>
+    </ul>
+  </footer>
+</div>
